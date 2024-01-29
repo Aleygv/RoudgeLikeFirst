@@ -5,7 +5,29 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Engine Projects/RougeLikeFirst/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/TestLevel.umap",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/Levels/TestLevel.umap",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Ch24_nonPBR.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/_GENERATED/aleyg/Box_7612712A.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/Blueprints/Character/BP_MainCharacter.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Ch24_1001_Diffuse.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Ch24_1001_Glossiness.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Ch24_1001_Normal.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Ch24_1001_Specular.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Ch24_Body.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Ch24_nonPBR_PhysicsAsset.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Ch24_nonPBR_Skeleton.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Start_Walking.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Standing_Idle.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/Blueprints/Character/I_Context.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/Blueprints/Character/I_Config.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/Blueprints/Character/IA_Movement.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/Blueprints/Character/GM_Player.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/Levels/TestLevel_BuiltData.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/Blueprints/Character/IA_Look.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/Assets/Human/Walking.uasset",
+				"D:/Unreal Engine Projects/RougeLikeFirst/Content/MyContent/Levels/_GENERATED/aleyg/Box_90D79EE7.uasset"
 			]
 		}
 	]
